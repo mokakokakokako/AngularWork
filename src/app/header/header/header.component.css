@@ -1,0 +1,15 @@
+.header {
+  background-color: wheat;
+  height: 50px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 20px;
+
+}
+
+.header:hover{
+  transition: 0.3s;
+  height: 100px
+}
+
+
