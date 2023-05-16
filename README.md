@@ -1,1 +1,1 @@
-![See /src/assets/rs6.png](./src/assets/img.png)
+![See /src/assets/img.png](./src/assets/img.png)
